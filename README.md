@@ -10,4 +10,4 @@
 </ul>
 <p>Nesse projeto, a unica coisa que falta para ficar completo, é uma API para achar os valores das moedas no dia </p>
 
-<img src="https://1drv.ms/i/s!AudRU6D8HDvBgTTfN0N-hDUyMA7R?e=5yAkEa">
+<img src="(https://github.com/Gug4ZL/projeto-java/assets/136204571/a558a2e3-a1b4-430b-8476-6079a0097435)">
