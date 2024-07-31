@@ -1,4 +1,4 @@
-# projeto-java
+# conversor-de-moedas
 
 <h1>projeto conversor de moedas</h1>
 
